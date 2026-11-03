@@ -132,8 +132,7 @@ flowchart TD
 
 ## 📁 Project Structure
 
-```text
-EV_Dashboard/
+ev-charging-demand-dashboard/
 │
 ├── app.py
 ├── EV_Charging_Station_Demand_104500_with_NaN.csv
@@ -145,11 +144,9 @@ EV_Dashboard/
 ├── .gitignore
 ├── README.md
 │
-└── dashboard_images/
-    ├── 01_dashboard_overview.png
-    ├── 02_demand_analysis.png
-    └── 03_data_quality.png
-```
+├── 01_dashboard_overview.png
+├── 02_demand_analysis.png
+└── 03_data_quality.png
 
 ## ▶️ Run the Project Locally
 

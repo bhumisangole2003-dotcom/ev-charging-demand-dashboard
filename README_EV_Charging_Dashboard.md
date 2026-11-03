@@ -6,13 +6,11 @@ The Streamlit dashboard turns the cleaned dataset into interactive charts, filte
 
 ## 🧩 Problem Statement / Business Problem
 
-As the adoption of electric vehicles grows, charging-station operators and city planners need to understand where and when charging demand is highest. Without a clear view of charging-session patterns, station utilization and differences across locations and vehicle categories, it can be difficult to identify peak-demand periods, recognize potentially underserved areas and plan charging capacity effectively.
+With the growing adoption of electric vehicles, understanding charging demand is important for planning charging stations. This project analyzes EV charging data to identify demand patterns across time, locations and vehicle types, helping support better station utilization and network-planning decisions.
 
 The business problem addressed by this project is:
 
 **How can EV charging-session data be analyzed and presented so that planners and operators can make more informed decisions about charging demand, station utilization and potential network expansion?**
-
-This project uses historical EV charging records to explore demand patterns across time, geography, location types, vehicle types and charger types. The dashboard is intended as a decision-support and exploratory analysis tool; it highlights patterns in the supplied dataset rather than making definitive site-selection or future-demand predictions.
 
 ## 🎯 Project Objectives
 

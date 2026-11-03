@@ -178,6 +178,7 @@ streamlit run app.py
 ```
 
 Streamlit will provide a local URL (usually `http://localhost:8501`) to open the dashboard in your browser.
+Live Dashboard : https://ev-charging-demand-dashboard.streamlit.app/
 
 > Keep `app.py` and the CSV dataset in the same project directory. The dashboard reads the CSV file from that directory.
 

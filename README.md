@@ -131,7 +131,7 @@ flowchart TD
 - **Jupyter Notebook** – EDA development and analysis
 
 ## 📁 Project Structure
-
+``` text
 ev-charging-demand-dashboard/
 │
 ├── app.py
@@ -147,6 +147,7 @@ ev-charging-demand-dashboard/
 ├── 01_dashboard_overview.png
 ├── 02_demand_analysis.png
 └── 03_data_quality.png
+```
 
 ## ▶️ Run the Project Locally
 

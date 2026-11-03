@@ -24,14 +24,17 @@ The business problem addressed by this project is:
 
 ## 📊 Dashboard Preview
 
-### 1. Overview dashboard
-![EV dashboard overview](dashboard_images/01_dashboard_overview.png)
+### 1. Overview Dashboard
 
-### 2. Demand pattern analysis
-![Demand pattern analysis](dashboard_images/02_demand_analysis.png)
+![EV Dashboard Overview](01_dashboard_overview.png)
 
-### 3. Data quality and cleaning
-![Data quality dashboard](dashboard_images/03_data_quality.png)
+### 2. Demand Pattern Analysis
+
+![Demand Pattern Analysis](02_demand_analysis.png)
+
+### 3. Data Quality and Cleaning
+
+![Data Quality Dashboard](03_data_quality.png)
 
 > These images are static preview snapshots generated from the supplied dataset. Run the Streamlit application to use the interactive filters, tabs and charts.
 

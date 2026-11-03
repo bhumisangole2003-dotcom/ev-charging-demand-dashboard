@@ -38,15 +38,6 @@ The business problem addressed by this project is:
 
 > These images are static preview snapshots generated from the supplied dataset. Run the Streamlit application to use the interactive filters, tabs and charts.
 
-## 🎯 Project Objectives
-
-- Analyze EV charging demand across different Indian states and location categories.
-- Identify hourly, daily and monthly charging-session patterns.
-- Compare demand across vehicle and charger types.
-- Examine the relationship between charging demand, station load, utilization and traffic density.
-- Detect missing values, duplicate records and outliers.
-- Present findings through an interactive dashboard to support network-planning decisions.
-
 ## 🗂️ Dataset
 
 - **Source file:** `EV_Charging_Station_Demand_104500_with_NaN.csv`

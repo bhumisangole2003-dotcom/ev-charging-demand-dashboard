@@ -198,11 +198,5 @@ Streamlit will provide a local URL (usually `http://localhost:8501`) to open the
 - Review station load and charger utilization patterns.
 - Support decisions about where and when charging capacity may need attention.
 
-## 👩‍💻 Author
-
-**Your Name**  
-Add your LinkedIn and GitHub profile links here.
-
----
 
 If you find this project useful, feel free to ⭐ the repository.
